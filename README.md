@@ -1,4 +1,5 @@
 # CSE397_homework
 dependencies:
-	matplotlib
-	numpy
+	matplotlib, 
+	numpy, 
+	jupyter notebook
